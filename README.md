@@ -1,4 +1,4 @@
-# Semantic UI – Accounts UI for React in Meteor 1.3
+# Semantic UI – Accounts UI for React in Meteor 1.6. Miniwe's updated
 
 Current version 1.1.8
 
@@ -32,8 +32,8 @@ We support the standard [configuration in the account-ui package](http://docs.me
 
 ### Example setup (Meteor 1.3)
 
-`meteor add accounts-password`  
-`meteor add semantic:ui-css`  
+`meteor add accounts-password`
+`meteor add semantic:ui-css`
 `meteor add std:accounts-semantic`
 
 ```javascript
@@ -54,9 +54,9 @@ if (Meteor.isClient) {
 
 ## Example setup using FlowRouter (Meteor 1.3)
 
-`meteor add accounts-password`  
-`meteor add semantic:ui-css`  
-`meteor add std:accounts-semantic`  
+`meteor add accounts-password`
+`meteor add semantic:ui-css`
+`meteor add std:accounts-semantic`
 `meteor add kadira:flow-router-ssr`
 
 ```javascript
