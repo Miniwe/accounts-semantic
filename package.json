@@ -1,9 +1,9 @@
 {
-  "name": "accounts-semantic",
+  "name": "miniwe:accounts-semantic",
   "description": "Semantic UI – Accounts UI for React in Meteor 1.6. Miniwe's updated",
   "repository": {
     "type": "git",
-    "url": "https://github.com/studiointeract/accounts-semantic.git"
+    "url": "https://github.com/miniwe/accounts-semantic.git"
   },
   "keywords": [
     "react",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/studiointeract/accounts-semantic/issues"
   },
-  "homepage": "https://github.com/studiointeract/accounts-semantic",
+  "homepage": "https://github.com/miniwe/accounts-semantic",
   "dependencies": {
     "react": ">=0.14.7 || ^15.0.0-rc.2",
     "react-dom": ">=0.14.7 || ^15.0.0-rc.2",
