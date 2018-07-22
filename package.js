@@ -1,6 +1,6 @@
 Package.describe({
   name: 'miniwe:accounts-semantic',
-  version: '1.2.1',
+  version: '1.2.3',
   summary: 'Semantic UI – Accounts UI for React in Meteor 1.6. Miniwe\'s updated',
   git: 'https://github.com/miniwe/accounts-semantic',
   documentation: 'README.md'
@@ -11,7 +11,7 @@ Package.onUse(function(api) {
   api.use('ecmascript');
   api.use('underscore');
   api.use('less');
-  api.use('std:accounts-ui@1.1.20');
+  api.use('std:accounts-ui@1.3.1');
 
   api.addFiles([
     'styles.less'
